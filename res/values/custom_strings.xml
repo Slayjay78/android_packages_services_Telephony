@@ -21,8 +21,6 @@
     <string name="non_intrusive_incall_title">Non intrusive</string>
     <string name="non_intrusive_incall_summary">Use non intrusive dialog for incoming calls</string>
 
-    <string name="advanced_setting">Advanced</string>
-
     <!-- Blacklist preferences -->
     <string name="blacklist_title">Blacklist</string>
     <string name="blacklist_summary_disabled">Disabled</string>
