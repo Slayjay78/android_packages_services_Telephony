@@ -41,6 +41,14 @@
       android:title="@string/other_settings"
       android:persistent="false" />
 
+    <ListPreference
+        android:key="button_incoming_call_style"
+        android:title="@string/incoming_call_style_title"
+        android:summary="%s"
+        android:entries="@array/incoming_call_style_entries"
+        android:entryValues="@array/incoming_call_style_values"
+        android:persistent="false" />
+
   <PreferenceScreen
       android:key="button_voicemail_category_key"
       android:title="@string/voicemail"
